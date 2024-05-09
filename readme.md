@@ -6,3 +6,5 @@
 
 ## 使用方法
 目前只支持mysql，另外如果你的数据库名称和字段名称太多的md关键符号，记得自行去`markdownTable`函数中替换掉。
+
+![image](https://github.com/Cee-Ya/database-dict-md/assets/100188425/27d7adb9-14b9-4d12-9531-b7585d8f9e4e)
