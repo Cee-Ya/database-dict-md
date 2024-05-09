@@ -1,0 +1,4 @@
+# 数据库连接信息，目前就支持mysql eg: user:password@tcp(host:port)/dbname?charset=utf8mb4&parseTime=True&loc=Local
+Dsn = "root:111111@tcp(192.168.1.13:3306)/test_db?charset=utf8mb4&parseTime=True&loc=Local&allowNativePasswords=true"
+# 最终md文档的存放路径
+ExportMDPath = "./Doc/"
